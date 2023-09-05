@@ -1,5 +1,5 @@
 # Important note
-This is my first ever contact with React framework, its full of bad practices that I'm aware of. It's great example of how not to use React framework, one day it will be rewritten.
+This was my first ever contact with React framework, it is full of bad practices that I'm aware of. It's great example of how not to use React framework, one day it will be rewritten.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
